@@ -1,7 +1,7 @@
 import restaurant as rst
 import recommender_system as rcmd
 
-name = '전성훈'
+name = '김호윤'
 print(name,'님을 위한 추천')
 
 #user_based
